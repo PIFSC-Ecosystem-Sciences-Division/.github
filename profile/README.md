@@ -1,5 +1,5 @@
 # [NOAA Fisheries PIFSC Ecosystem Sciences Division](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center) 
-<img align="right" src="https://github.com/PIFSC-Ecosystem-Sciences-Division/.github/blob/56246230413613c2d01432cf72e4e3b65dd64235/profile/docs/icons/NOAA_ESD_LOGO.png" width="40%">  
+<a href="https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center"><img align="right" src="https://github.com/PIFSC-Ecosystem-Sciences-Division/.github/blob/56246230413613c2d01432cf72e4e3b65dd64235/profile/docs/icons/NOAA_ESD_LOGO.png" width="40%"></a> 
 We conduct multidisciplinary research, monitoring, and analysis of integrated environmental and living resource systems in coastal and offshore waters of the Pacific Ocean.
 
 - Field research activities cover near-shore island ecosystems such as coral reefs to open ocean ecosystems on the high seas.
